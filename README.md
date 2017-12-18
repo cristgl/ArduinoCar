@@ -1,6 +1,5 @@
 # ArduinoRobotCar
-Proyecto de un coche de juguete controlado por Bluetooth.
-El coche está compuesto de dos motores DC controlados por un driver L298N, Arduino ONE, módulo Bluetooth HC-05, un interruptor y una pila de 9V.
+An Arduino project of a toy car controlled using Bluetooth.
+It has two DC motors controlled by a L298N driver, Arduino ONE, HC-05, a switch and a 9V battery.
 
-Puede controlarse por Bluetooth mediante la app de Android Arduino Control Car, sólo es necesario activar el Bluetooth y vincularse con el HC-05 para empezar a utilizarlo.
-
+The car can be controlled using the app Arduino Control Car, it is only necessary to activate Bluetooth and link it to HC-05 to start using it.
